@@ -85,8 +85,8 @@
 		<h1>ABOUT</h1>
 		<div class="greeting-container">
 			<h2>
-				Jaewoon Im, A full-stack developer, <br />
-				do the frontend and backend both.
+				Jaewoon Im, full-stack developer, <br />
+				experience with frontend and backend.
 			</h2>
 			<div>
 				<span class="social-links-container">
@@ -105,7 +105,7 @@
 		<div class="introduction-container">
 			<pre>
 			5+ years of experience as a software engineer, skilled in working independently and as part of a team on projects. Experience collaborating with some of Asia’s largest companies.
-			Now, I have moved to Copenhagen to live with my Danish girlfriend, and I am looking for new career opportunities.
+			Currently living in Copenhagen with my Danish girlfriend, looking for new career opportunities.
 			</pre>
 		</div>
 	</section>
@@ -127,10 +127,10 @@
 				</div>
 				<div class="job-summary-container">
 					<p>
-						Full-stack Engineered with expertise in Java, Python, and TypeScript, specializing in
+						Full-stack Engineer with expertise in Java, Python, and TypeScript, specializing in
 						building scalable web applications and data platforms with a proven ability to deliver
 						complex projects. Successful track record of collaborating with cross-functional teams
-						to develop and deploy robust solutions for major South Korean corporations.
+						to develop and deploy robust solutions for major East Asian corporations.
 					</p>
 				</div>
 				<div class="job-skill-container">
@@ -183,7 +183,7 @@
 			<p class="project-description">
 				A centralized data store using Java (Spring Boot), MySQL, Git, Docker, Kubernetes, and Naver
 				Cloud Platform (A Korean AWS), providing data scientists with fast access to data for
-				personalized advertising for Line-Japan's largest communication platform.
+				personalized advertising for Line - Japan's largest communication platform.
 			</p>
 		</div>
 		<div class="project-container">
