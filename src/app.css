@@ -1,0 +1,78 @@
+:root {
+	--font-title: 'Space Mono', monospace;
+	--font-body: 'Inter', sans-serif, Arial, -apple-system, BlinkMacSystemFont;
+	--color-bg-content: #1e2025;
+	--color-bg-nav: #22242b;
+	--color-bg-active: #2a2f39;
+	--color-border: #2b2f38;
+	--color-primary: #10a694;
+	--color-accent: #f29c13;
+	--color-text: #d6d6d6;
+	--color-grey: #aca8ad;
+	font-family: var(--font-body);
+	color: var(--color-text);
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	background-color: var(--color-bg-content);
+}
+
+p,
+pre {
+	margin: 0;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 2.1;
+}
+
+a {
+	color: var(--color-text);
+	text-decoration: none;
+	line-height: 0;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1,
+h2 {
+	margin: 0;
+	text-align: left;
+	font-family: var(--font-title);
+	font-weight: 600;
+	line-height: 2;
+}
+
+h1 {
+	font-size: 2.5rem;
+	color: var(--color-primary);
+}
+
+h2 {
+	font-size: 1.5rem;
+	color: var(--color-text);
+}
+
+input,
+button {
+	padding: 0;
+	font-size: inherit;
+	font-family: inherit;
+}
+
+button:focus:not(:focus-visible) {
+	outline: none;
+}
+
+nav,
+nav ol {
+	padding: 0;
+	margin: 0;
+}
+
+ol li {
+	list-style-type: none;
+}
