@@ -1,12 +1,12 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
 	import Button from './Button.svelte';
-	import InstagramIcon from '$lib/icons/InstagramIcon.svelte';
+	import GitHubIcon from '$lib/icons/GitHubIcon.svelte';
 	import LinkedInIcon from '$lib/icons/LinkedInIcon.svelte';
 	import LinkIcon from '$lib/icons/LinkIcon.svelte';
 	import Badge from '$lib/components/Badge.svelte';
 
-	const instagramIcon = InstagramIcon,
+	const gitHubIcon = GitHubIcon,
 		linkedInIcon = LinkedInIcon,
 		linkIcon = LinkIcon;
 
@@ -93,8 +93,8 @@
 					<a href="https://www.linkedin.com/in/jwoon/" target="_blank">
 						<svelte:component this={linkedInIcon} />
 					</a>
-					<a href="https://www.instagram.com/jaewoon_im/" target="_blank">
-						<svelte:component this={instagramIcon} />
+					<a href="https://github.com/jwnim" target="_blank">
+						<svelte:component this={gitHubIcon} />
 					</a>
 				</span>
 				<div>
