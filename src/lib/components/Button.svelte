@@ -1,6 +1,6 @@
 <script>
 	import LinkIcon from '$lib/icons/LinkIcon.svelte';
-	import Rusume from '$lib/resume/Resume_Jaewoon_Im.pdf';
+	import Rusume from '$lib/resume/Jaewoon Im_Resume.pdf';
 
 	let linkIcon = LinkIcon;
 </script>
