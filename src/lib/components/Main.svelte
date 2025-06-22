@@ -20,8 +20,9 @@
 			'TypeScript',
 			'Vue.js',
 			'MySQL',
-			'ELK Stack',
+			'Elasticsearch',
 			'Docker',
+			'Kubernetes',
 			'REST'
 		],
 		['Java', 'Jersey Framework', 'JavaScript', 'AngularJS', 'Oracle Database', 'REST']
@@ -194,9 +195,9 @@
 				</span>
 			</a>
 			<p class="project-description">
-				A user-friendly frontend and backend control panel web application in Python (Django) and
-				TypeScript (Vue.js) for the Korean streaming platform Genie TV owned by KT - the second
-				largest telecommunications company in South Korea
+				A user-friendly AI control panel web application in Python (Django) and TypeScript (Vue.js)
+				for the Korean IPTV platform owned by KT - the second largest telecommunications company in
+				South Korea
 			</p>
 		</div>
 	</section>
